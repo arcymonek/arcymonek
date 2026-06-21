@@ -4,7 +4,7 @@
   I believe that in an era dominated by big cloud providers, building your own infrastructure is the best way to regain control over your own data and privacy.
   
 - 🌱 **What do I do?**\
-  I’m building and developing my own Home Lab.\
+  I'm setting up and expanding my own home lab based on a VPS running Debian 12, Docker, and nginx.\
   Thanks to the support of modern language models (LLMs), which I treat as partners in learning, I’ve managed to go from scratch to a fully containerized, secure server environment.
   
 - 💞️ **I’m constantly learning new and fascinating things!**
