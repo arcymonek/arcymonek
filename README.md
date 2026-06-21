@@ -17,7 +17,8 @@
   
   AI & RAG:\
     I’m experimenting with integrating local and cloud-based AI models to boost my personal productivity.\
-    I’m currently using LibreChat and various LLMs via their APIs. I’m also exploring third-party tools that extend LibreChat’s capabilities.\
+    I’m currently using LibreChat and various LLMs via their APIs. I’m also exploring third-party tools that extend LibreChat’s capabilities.
+  
   Security:\
     I’m learning about system hardening, monitoring, and automation (CrowdSec, Nginx, Docker), as well as backups.
   
