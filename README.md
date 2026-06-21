@@ -5,7 +5,10 @@
   
 - 🌱 **What do I do?**\
   I'm setting up and expanding my own home lab based on a VPS running Debian 12, Docker, and nginx.\
-  Thanks to the support of modern language models (LLMs), which I treat as partners in learning, I’ve managed to go from scratch to a fully containerized, secure server environment.
+  Thanks to the support of modern language models (LLMs), which I treat as partners in learning, I’ve managed to go from scratch to a fully containerized, secure server environment.\
+  I know that today's AI-based tools offer incredible possibilities, but this working server is also the result of my personal determination, dozens of hours spent analyzing documentation and many mistakes I've made - some of them really silly :) \
+  My persistence in solving problems that allowed me to turn those suggestions into a stable, functioning system.\
+  AI provided the knowledge, but I took responsibility for the architecture and security of what I built.
   
 - 💞️ **I’m constantly learning new and fascinating things!**
 
@@ -24,7 +27,7 @@
   
 - 📫 **I’m not looking for the quickest route; I’m seeking a full understanding of what I’m building.**\
   Every challenge is a lesson for me, and every problem solved is another step toward independence. \
-  If you’re working on similar topics, I’d love to exchange experiences :)
+  If you're working on similar topics, have questions, or would like to share your experiences with building your own infrastructure, please feel free to contact me: arcymonek@gmail.com
 
 Greetings from Poland!
 <!---
