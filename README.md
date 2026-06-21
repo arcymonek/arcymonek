@@ -7,8 +7,6 @@
   I'm setting up and expanding my own home lab based on a VPS running Debian 12, Docker, and nginx.\
   Thanks to the support of modern language models (LLMs), which I treat as partners in learning, I’ve managed to go from scratch to a fully containerized, secure server environment.\
   I know that today's AI-based tools offer incredible possibilities, but this working server is also the result of my personal determination, dozens of hours spent analyzing documentation and many mistakes I've made - some of them really silly :) \
-  It was my persistence in solving problems that allowed me to turn those suggestions into a stable, functioning system.\
-  AI provided the knowledge, but I took responsibility for the architecture and security of what I built.
   
 - 💞️ **I’m constantly learning new and fascinating things!**
 
