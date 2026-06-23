@@ -26,9 +26,6 @@
   
 - 🎯 **I’m not looking for the quickest route; I’m seeking a full understanding of what I’m building.**\
   Every challenge is a lesson for me, and every problem solved is another step toward independence.
-  
-- 📫 If you are into self-hosting, digital privacy, or just want to swap stories about the stupidest ways you've accidentally wiped a config file while learning - let's connect :)\
-  arcymonek@gmail.com
 
 <!---
 arcymonek/arcymonek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
