@@ -14,7 +14,6 @@ I run a self-hosted home lab (a VPS, Docker, my own services) and learn by build
 🎯 I'm not looking for the quickest route; I'm looking for a full understanding of what I build. 
 Every problem solved is another step toward independence.
 
-Project
 
 ### [reportabuseipdb](https://github.com/arcymonek/reportabuseipdb)
 
