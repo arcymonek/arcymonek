@@ -4,7 +4,7 @@ I'm not a professional programmer, but I'm passionate about digital sovereignty.
 In an era dominated by big cloud providers, I believe building your own infrastructure is the best way to regain control over your data and privacy.
 
 🛠️ **What I do**\
-I run a self-hosted homelab (VPS, Debian, my own services) and learn by building it.\
+I run a self-hosted homelab (VPS, Debian, Docker, nginx and my own services) and learn by building it.\
 I treat modern language models as learning partners: they help a lot, but the result is also dozens of hours of reading documentation and many mistakes, some of them really silly :)
 
 - **Self-hosting:** my own services, from media to work tools.
