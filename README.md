@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Arkadiusz Polak (@arcymonek)
+### 👋 Hi, I'm Arkadiusz (@arcymonek)
 
 I'm not a professional programmer, but I'm passionate about digital sovereignty.\
 In an era dominated by big cloud providers, I believe building your own infrastructure is the best way to regain control over your data and privacy.
